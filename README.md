@@ -12,7 +12,7 @@ See [Bionic Reading Webpage](https://bionic-reading.com/) for more information
 
 ## Usage
 
-The Bionic Reading Workflow is implemented as an Universal Action and accessible via keyword `bi`
+The Bionic Reading Workflow is implemented as an Universal Action and accessible via keyword `bio`
 
 ### Universal Action
 
@@ -20,4 +20,4 @@ Mark an URL and enter Universal action  → search for `Bionic Reader` in Univer
 
 ### Keyword
 
-Just type `bi` and enter the text
+Just type `bio` and enter the text
