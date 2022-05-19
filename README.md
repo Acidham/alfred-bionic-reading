@@ -1,6 +1,6 @@
-# Alfred Bionic Reader
+# Bionic Reading
 
-**Bion**ic **Readi**ng **i**s a **ne**w **meth**od **facilitati**ng **th**e **readi**ng **proce**ss **b**y **guidi**ng **th**e **eye**s **throu**gh **tex**t **wit**h **artifici**al **fixati**on **poin**ts. **A**s a **resu**lt, **th**e **read**er **i**s **onl**y **focusi**ng **o**n **th**e **highlight**ed **initi**al **lette**rs **an**d **let**s **th**e **bra**in **cent**er **comple**te **th**e **wor**d. **I**n a **digit**al **wor**ld **dominat**ed **b**y **shall**ow **for**ms **o**f **readi**ng, **Bion**ic **Readi**ng **aim**s **t**o **encoura**ge a **mor**e **i**n-**dep**th **readi**ng **an**d **understand**ing **o**f **writt**en **conte**nt.
+**Bio**nic **Read**ing **i**s **a** **n**ew **met**hod **facili**tating **t**he **read**ing **proc**ess **b**y **guid**ing **t**he **ey**es **thro**ugh **te**xt **wi**th **artif**icial **fixa**tion **poi**nts. **A**s **a** **res**ult, **t**he **rea**der **i**s **on**ly **focu**sing **o**n **t**he **highli**ghted **init**ial **lett**ers **a**nd **le**ts **t**he **bra**in **cen**ter **comp**lete **t**he **wo**rd. **I**n **a** **digi**tal **wor**ld **domin**ated **b**y **shal**low **for**ms **o**f **read**ing, **Bio**nic **Read**ing **ai**ms **t**o **encou**rage **a** **mo**re **i**n-**dep**th **read**ing **a**nd **underst**anding **o**f **writ**ten **cont**ent.
 
 See [Bionic Reading Webpage](https://bionic-reading.com/) for more information
 
