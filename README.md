@@ -7,7 +7,7 @@ See [Bionic Reading Webpage](https://bionic-reading.com/) for more information
 ## Requirements
 
 1. Python 3
-2. Requests library `pip install requests`
+2. Requests library `python3 -m pip install requests`
 3. API Key: https://rapidapi.com/bionic-reading-bionic-reading-default/api/bionic-reading1/ please enter API Key in Workflow settings.
 
 ## Usage
